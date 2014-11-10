@@ -1,11 +1,9 @@
-
 tomcat7-examples::install::loyalty_soap:         	"loyalty-soap-server.war"
 tomcat7-examples::install::loyalty_soap_source:  	"org.chtijbug.drools:loyalty-soap-server:1.0.0-SNAPSHOT:war"
 tomcat7-examples::install::loyalty_web:         		"loyalty-web.war"
 tomcat7-examples::install::loyalty_web_source:  		"org.chtijbug.drools:loyalty-web:1.0.0-SNAPSHOT:war"
 tomcat7-examples::install::swimming_pool:         	"swimming-pool-soap-server.war"
 tomcat7-examples::install::swimming_pool_source:  	"org.chtijbug.drools:swimming-pool-soap-server:1.0.0-SNAPSHOT:war"
-
 
 
 
