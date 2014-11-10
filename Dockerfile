@@ -20,6 +20,5 @@ EXPOSE 22
 EXPOSE 5432
 
 ##RUN /bin/sh /tmp/set-psql-password.sh
-ENV DROOLS_CATALINA_OPTS " -Dws.hostname=localhost -Dws.port=8080 "
 CMD ["/usr/bin/supervisord"]
 
